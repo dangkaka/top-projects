@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"os"
 	"time"
+	"os/exec"
 )
 
 type Repositories struct {
@@ -15,7 +16,6 @@ type Repositories struct {
 	Items      []Repo `json:"items,omitempty"`
 }
 
-// Repo describes a Github repository
 type Repo struct {
 	Name        string    `json:"name"`
 	Description string    `json:"description"`
@@ -43,12 +43,14 @@ func main() {
 	if err = decoder.Decode(&result); err != nil {
 		log.Fatal(err)
 	}
-
-	save(result.Items)
+	now := time.Now()
+	backup := "backup_" + now.Format("20060102") + ".md"
+	exec.Command("mv", "README.md", backup).Run()
+	save(result.Items, now)
 }
 
-func save(result []Repo) {
-	readme, err := os.OpenFile("README.md", os.O_RDWR|os.O_TRUNC, 0666)
+func save(result []Repo, now time.Time) {
+	readme, err := os.OpenFile("README.md", os.O_CREATE|os.O_RDWR|os.O_TRUNC, 0666)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -61,5 +63,5 @@ A list of most popular github projects related to Go (ranked by stars)
 	for i, repo := range result {
 		readme.WriteString(fmt.Sprintf("| %d | [%s](%s) | %d | %d | %d | %s |\n", i+1, repo.Name, repo.URL, repo.Stars, repo.Forks, repo.Issues, repo.Description))
 	}
-	readme.WriteString(fmt.Sprintf("\n*Last Automatic Update: %v*", time.Now().Format("2006-01-02 15:04:05")))
+	readme.WriteString(fmt.Sprintf("\n*Updated at: %v*", now.Format("2006-01-02 15:04:05")))
 }
