@@ -54,6 +54,7 @@ func save(result []Repo, now time.Time) {
 	if err != nil {
 		log.Fatal(err)
 	}
+	readme.WriteString(fmt.Sprintf("*Updated at: %v* \n", now.Format("2006-01-02 15:04:05")))
 	readme.WriteString(`# Top Go Projects
 A list of most popular github projects related to Go (ranked by stars)
 
@@ -63,5 +64,4 @@ A list of most popular github projects related to Go (ranked by stars)
 	for i, repo := range result {
 		readme.WriteString(fmt.Sprintf("| %d | [%s](%s) | %d | %d | %d | %s |\n", i+1, repo.Name, repo.URL, repo.Stars, repo.Forks, repo.Issues, repo.Description))
 	}
-	readme.WriteString(fmt.Sprintf("\n*Updated at: %v*", now.Format("2006-01-02 15:04:05")))
 }
