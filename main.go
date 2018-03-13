@@ -56,7 +56,7 @@ func save(result []Repo, now time.Time) {
 	}
 	readme.WriteString(fmt.Sprintf("*Updated at: %v* \n", now.Format("2006-01-02 15:04:05")))
 	readme.WriteString(`# Top Go Projects
-A list of most popular github projects related to Go (ranked by stars)
+A list of most popular github projects in Go (by stars)
 
 |    | Project Name | Stars | Forks | Open Issues | Description |
 | -- | ------------ | ----- | ----- | ----------- | ----------- |

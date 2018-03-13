@@ -1,6 +1,6 @@
-*Updated at: 2018-03-14 00:26:28* 
+*Updated at: 2018-03-14 00:27:58* 
 # Top Go Projects
-A list of most popular github projects related to Go (ranked by stars)
+A list of most popular github projects in Go (by stars)
 
 |    | Project Name | Stars | Forks | Open Issues | Description |
 | -- | ------------ | ----- | ----- | ----------- | ----------- |
