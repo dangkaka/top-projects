@@ -6,14 +6,14 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"time"
 	"os/exec"
+	"time"
 )
 
 type Repositories struct {
-	Total             *int         `json:"total_count,omitempty"`
-	IncompleteResults *bool        `json:"incomplete_results,omitempty"`
-	Items      []Repo `json:"items,omitempty"`
+	Total             *int   `json:"total_count,omitempty"`
+	IncompleteResults *bool  `json:"incomplete_results,omitempty"`
+	Items             []Repo `json:"items,omitempty"`
 }
 
 type Repo struct {
@@ -54,7 +54,7 @@ func save(result []Repo, now time.Time) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	readme.WriteString(fmt.Sprintf("*Updated at: %v* \n", now.Format("2006-01-02 15:04:05")))
+	readme.WriteString(fmt.Sprintf("*Updated automatically at: %v* \n", now.Format("2006-01-02 15:04:05")))
 	readme.WriteString(`# Top Go Projects
 A list of most popular github projects in Go (by stars)
 
