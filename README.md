@@ -1,4 +1,4 @@
-*Updated automatically at: 2018-05-30T17:12:33+07:00* 
+*Updated automatically at: 2018-05-30T17:13:45+07:00* 
 # Top Go Projects
 A list of most popular github projects in Go (by stars)
 
