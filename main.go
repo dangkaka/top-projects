@@ -44,7 +44,7 @@ func main() {
 		log.Fatal(err)
 	}
 	now := time.Now()
-	backup := "backup_" + now.Format("20060102") + ".md"
+	backup := "backup/backup_" + now.Format("20060102") + ".md"
 	exec.Command("mv", "README.md", backup).Run()
 	save(result.Items, now)
 }
