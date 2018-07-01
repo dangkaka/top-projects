@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 	"os/exec"
-	"time"
 	"strings"
+	"time"
 )
 
 type Repositories struct {
@@ -42,9 +42,9 @@ func main() {
 	}
 	readme.WriteString(fmt.Sprintf("*Updated automatically at: %v* \n", now.Format(time.RFC3339)))
 
-	for _, lang := range  languages {
-		goResult := getGithubResult(lang)
-		writeResultToReadme(strings.Title(lang), goResult.Items, readme)
+	for _, lang := range languages {
+		result := getGithubResult(lang)
+		writeResultToReadme(strings.Title(lang), result.Items, readme)
 	}
 }
 
