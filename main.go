@@ -8,6 +8,7 @@ import (
 	"os"
 	"os/exec"
 	"time"
+	"strings"
 )
 
 type Repositories struct {
@@ -28,6 +29,7 @@ type Repo struct {
 }
 
 var result Repositories
+var languages = []string{"go", "javascript", "python", "php"}
 
 func main() {
 	now := time.Now()
@@ -40,21 +42,10 @@ func main() {
 	}
 	readme.WriteString(fmt.Sprintf("*Updated automatically at: %v* \n", now.Format(time.RFC3339)))
 
-	//go
-	goResult := getGithubResult("go")
-	writeResultToReadme("Go", goResult.Items, readme)
-
-	//js
-	jsResult := getGithubResult("javascript")
-	writeResultToReadme("Javascript", jsResult.Items, readme)
-
-	//python
-	pythonResult := getGithubResult("python")
-	writeResultToReadme("Python", pythonResult.Items, readme)
-
-	//php
-	phpResult := getGithubResult("php")
-	writeResultToReadme("Php", phpResult.Items, readme)
+	for _, lang := range  languages {
+		goResult := getGithubResult(lang)
+		writeResultToReadme(strings.Title(lang), goResult.Items, readme)
+	}
 }
 
 func getGithubResult(lang string) Repositories {
