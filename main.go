@@ -67,7 +67,7 @@ func getGithubResult(lang string) Repositories {
 
 func writeResultToReadme(lang string, result []Repo, readme *os.File) {
 	readme.WriteString(fmt.Sprintf(`
-# Top %s Projects
+## Top %s Projects
 
 A list of most popular github projects in %s (by stars)
 
