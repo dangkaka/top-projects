@@ -1,4 +1,4 @@
-*Updated automatically at: 2021-01-04T10:00:10+07:00* 
+*Updated automatically at: 2021-01-11T10:00:14+07:00* 
 
 ## Top Go Projects
 
@@ -6,36 +6,36 @@ A list of most popular github projects in Go (by stars)
 
 |    | Project Name | Stars | Forks | Open Issues | Description |
 | -- | ------------ | ----- | ----- | ----------- | ----------- |
-| 1 | [go](https://github.com/golang/go) | 80477 | 11703 | 6664 | The Go programming language |
-| 2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 73220 | 26460 | 2905 | Production-Grade Container Scheduling and Management |
-| 3 | [awesome-go](https://github.com/avelino/awesome-go) | 60346 | 8000 | 39 | A curated list of awesome Go frameworks, libraries and software |
-| 4 | [moby](https://github.com/moby/moby) | 59296 | 17089 | 4003 | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
-| 5 | [hugo](https://github.com/gohugoio/hugo) | 49181 | 5543 | 596 | The world’s fastest framework for building websites. |
-| 6 | [gin](https://github.com/gin-gonic/gin) | 44558 | 5096 | 363 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. |
-| 7 | [frp](https://github.com/fatedier/frp) | 41983 | 7940 | 93 | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
-| 8 | [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 36565 | 9856 | 123 | A golang ebook intro how to build a web with golang |
-| 9 | [v2ray-core](https://github.com/v2ray/v2ray-core) | 36137 | 8027 | 35 | A platform for building proxies to bypass network restrictions. |
-| 10 | [gogs](https://github.com/gogs/gogs) | 36131 | 4211 | 711 | Gogs is a painless self-hosted Git service |
-| 11 | [prometheus](https://github.com/prometheus/prometheus) | 34588 | 5475 | 390 | The Prometheus monitoring system and time series database. |
-| 12 | [syncthing](https://github.com/syncthing/syncthing) | 34432 | 2893 | 256 | Open Source Continuous File Synchronization |
-| 13 | [etcd](https://github.com/etcd-io/etcd) | 34173 | 7244 | 261 | Distributed reliable key-value store for the most critical data of a distributed system |
-| 14 | [fzf](https://github.com/junegunn/fzf) | 33959 | 1432 | 172 | :cherry_blossom: A command-line fuzzy finder |
-| 15 | [traefik](https://github.com/traefik/traefik) | 32089 | 3533 | 590 | The Cloud Native Application Proxy |
-| 16 | [caddy](https://github.com/caddyserver/caddy) | 31440 | 2579 | 79 | Fast, multi-platform web server with automatic HTTPS |
-| 17 | [go-ethereum](https://github.com/ethereum/go-ethereum) | 27578 | 10172 | 286 | Official Go implementation of the Ethereum protocol |
-| 18 | [mkcert](https://github.com/FiloSottile/mkcert) | 27173 | 1207 | 47 | A simple zero-config tool to make locally trusted development certificates with any names you'd like. |
-| 19 | [tidb](https://github.com/pingcap/tidb) | 26406 | 4119 | 1646 | TiDB is an open source distributed HTAP database compatible with the MySQL protocol  |
-| 20 | [istio](https://github.com/istio/istio) | 25768 | 4980 | 1037 | Connect, secure, control, and observe services. |
-| 21 | [beego](https://github.com/beego/beego) | 25645 | 5067 | 169 | beego is an open-source, high-performance web framework for the Go programming language. |
-| 22 | [minio](https://github.com/minio/minio) | 25287 | 2722 | 38 | High Performance, Kubernetes Native Object Storage |
-| 23 | [rclone](https://github.com/rclone/rclone) | 25285 | 2178 | 744 | "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files |
-| 24 | [terraform](https://github.com/hashicorp/terraform) | 25019 | 6317 | 1365 | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
-| 25 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 24379 | 6711 | 31 | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 |
-| 26 | [dive](https://github.com/wagoodman/dive) | 23896 | 890 | 69 | A tool for exploring each layer in a docker image |
-| 27 | [gitea](https://github.com/go-gitea/gitea) | 22959 | 2774 | 1525 | Git with a cup of tea, painless self-hosted git service |
-| 28 | [drone](https://github.com/drone/drone) | 22322 | 2185 | 62 | Drone is a Container-Native, Continuous Delivery Platform |
-| 29 | [gorm](https://github.com/go-gorm/gorm) | 22215 | 2531 | 17 | The fantastic ORM library for Golang, aims to be developer friendly |
-| 30 | [consul](https://github.com/hashicorp/consul) | 21041 | 3583 | 868 | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. |
+| 1 | [go](https://github.com/golang/go) | 80703 | 11739 | 6678 | The Go programming language |
+| 2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 73403 | 26524 | 2861 | Production-Grade Container Scheduling and Management |
+| 3 | [awesome-go](https://github.com/avelino/awesome-go) | 60650 | 8026 | 44 | A curated list of awesome Go frameworks, libraries and software |
+| 4 | [moby](https://github.com/moby/moby) | 59344 | 17103 | 4001 | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
+| 5 | [hugo](https://github.com/gohugoio/hugo) | 49335 | 5558 | 602 | The world’s fastest framework for building websites. |
+| 6 | [gin](https://github.com/gin-gonic/gin) | 44735 | 5115 | 366 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. |
+| 7 | [frp](https://github.com/fatedier/frp) | 42176 | 7970 | 94 | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
+| 8 | [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 36622 | 9859 | 123 | A golang ebook intro how to build a web with golang |
+| 9 | [v2ray-core](https://github.com/v2ray/v2ray-core) | 36195 | 8033 | 33 | A platform for building proxies to bypass network restrictions. |
+| 10 | [gogs](https://github.com/gogs/gogs) | 36180 | 4214 | 713 | Gogs is a painless self-hosted Git service |
+| 11 | [prometheus](https://github.com/prometheus/prometheus) | 34699 | 5494 | 389 | The Prometheus monitoring system and time series database. |
+| 12 | [syncthing](https://github.com/syncthing/syncthing) | 34526 | 2896 | 258 | Open Source Continuous File Synchronization |
+| 13 | [etcd](https://github.com/etcd-io/etcd) | 34259 | 7267 | 256 | Distributed reliable key-value store for the most critical data of a distributed system |
+| 14 | [fzf](https://github.com/junegunn/fzf) | 34103 | 1447 | 175 | :cherry_blossom: A command-line fuzzy finder |
+| 15 | [traefik](https://github.com/traefik/traefik) | 32177 | 3548 | 585 | The Cloud Native Application Proxy |
+| 16 | [caddy](https://github.com/caddyserver/caddy) | 31505 | 2581 | 71 | Fast, multi-platform web server with automatic HTTPS |
+| 17 | [go-ethereum](https://github.com/ethereum/go-ethereum) | 27681 | 10211 | 288 | Official Go implementation of the Ethereum protocol |
+| 18 | [mkcert](https://github.com/FiloSottile/mkcert) | 27296 | 1212 | 50 | A simple zero-config tool to make locally trusted development certificates with any names you'd like. |
+| 19 | [tidb](https://github.com/pingcap/tidb) | 26504 | 4130 | 1619 | TiDB is an open source distributed HTAP database compatible with the MySQL protocol  |
+| 20 | [istio](https://github.com/istio/istio) | 25822 | 4997 | 1026 | Connect, secure, control, and observe services. |
+| 21 | [beego](https://github.com/beego/beego) | 25695 | 5075 | 105 | beego is an open-source, high-performance web framework for the Go programming language. |
+| 22 | [rclone](https://github.com/rclone/rclone) | 25403 | 2195 | 744 | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files |
+| 23 | [minio](https://github.com/minio/minio) | 25374 | 2739 | 39 | High Performance, Kubernetes Native Object Storage |
+| 24 | [terraform](https://github.com/hashicorp/terraform) | 25114 | 6324 | 1351 | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| 25 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 24456 | 6737 | 31 | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 |
+| 26 | [dive](https://github.com/wagoodman/dive) | 24024 | 893 | 70 | A tool for exploring each layer in a docker image |
+| 27 | [gitea](https://github.com/go-gitea/gitea) | 23067 | 2784 | 1542 | Git with a cup of tea, painless self-hosted git service |
+| 28 | [drone](https://github.com/drone/drone) | 22347 | 2186 | 64 | Drone is a Container-Native, Continuous Delivery Platform |
+| 29 | [gorm](https://github.com/go-gorm/gorm) | 22302 | 2531 | 11 | The fantastic ORM library for Golang, aims to be developer friendly |
+| 30 | [consul](https://github.com/hashicorp/consul) | 21090 | 3594 | 861 | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. |
 
 ## Top Javascript Projects
 
@@ -43,36 +43,36 @@ A list of most popular github projects in Javascript (by stars)
 
 |    | Project Name | Stars | Forks | Open Issues | Description |
 | -- | ------------ | ----- | ----- | ----------- | ----------- |
-| 1 | [vue](https://github.com/vuejs/vue) | 177583 | 27714 | 556 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
-| 2 | [bootstrap](https://github.com/twbs/bootstrap) | 146208 | 71589 | 426 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
-| 3 | [javascript](https://github.com/airbnb/javascript) | 103379 | 20073 | 120 | JavaScript Style Guide |
-| 4 | [d3](https://github.com/d3/d3) | 95116 | 22442 | 8 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
-| 5 | [react-native](https://github.com/facebook/react-native) | 92538 | 20381 | 1292 | A framework for building native apps with React. |
-| 6 | [node](https://github.com/nodejs/node) | 75739 | 18913 | 1221 | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: |
-| 7 | [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | 66853 | 7374 | 5 | Short JavaScript code snippets for all your development needs |
-| 8 | [three.js](https://github.com/mrdoob/three.js) | 66092 | 26164 | 592 | JavaScript 3D library. |
-| 9 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 64774 | 11236 | 5625 | The iconic SVG, font, and CSS toolkit |
-| 10 | [material-ui](https://github.com/mui-org/material-ui) | 64026 | 19784 | 470 | React components for faster and simpler web development. Build your own design system, or start with Material Design. |
-| 11 | [next.js](https://github.com/vercel/next.js) | 59472 | 10257 | 868 | The React Framework |
-| 12 | [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 58485 | 5609 | 30 | :white_check_mark:  The Node.js best practices list (January 2021) |
-| 13 | [jquery](https://github.com/jquery/jquery) | 54374 | 19718 | 73 | jQuery JavaScript Library |
-| 14 | [Chart.js](https://github.com/chartjs/Chart.js) | 51575 | 10757 | 277 | Simple HTML5 Charts using the <canvas> tag |
-| 15 | [json-server](https://github.com/typicode/json-server) | 51347 | 4835 | 573 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
-| 16 | [markdown-here](https://github.com/adam-p/markdown-here) | 49559 | 9268 | 282 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. |
-| 17 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 48864 | 5101 | 1035 | Semantic is a UI component framework based around useful principles from natural language. |
-| 18 | [moment](https://github.com/moment/moment) | 45302 | 6828 | 104 | Parse, validate, manipulate, and display dates in javascript. |
-| 19 | [react-router](https://github.com/ReactTraining/react-router) | 42359 | 8367 | 48 | Declarative routing for React |
-| 20 | [svelte](https://github.com/sveltejs/svelte) | 40770 | 1942 | 656 | Cybernetically enhanced web apps |
-| 21 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 40410 | 4570 | 89 |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
-| 22 | [yarn](https://github.com/yarnpkg/yarn) | 39410 | 2646 | 1946 | 📦🐈 Fast, reliable, and secure dependency management. |
-| 23 | [leetcode](https://github.com/azl397985856/leetcode) | 39007 | 7268 | 15 |  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) |
-| 24 | [prettier](https://github.com/prettier/prettier) | 38537 | 2601 | 814 | Prettier is an opinionated code formatter. |
-| 25 | [materialize](https://github.com/Dogfalo/materialize) | 38274 | 4902 | 794 | Materialize, a CSS Framework based on Material Design |
-| 26 | [anime](https://github.com/juliangarnier/anime) | 37773 | 3010 | 137 | JavaScript animation engine |
-| 27 | [Ghost](https://github.com/TryGhost/Ghost) | 35882 | 7807 | 95 | 👻 The #1 headless Node.js CMS for professional publishing |
-| 28 | [strapi](https://github.com/strapi/strapi) | 32473 | 4050 | 377 | 🚀 Open source Node.js Headless CMS to easily build customisable APIs |
-| 29 | [brackets](https://github.com/adobe/brackets) | 32459 | 6728 | 2766 | An open source code editor for the web, written in JavaScript, HTML and CSS. |
-| 30 | [gulp](https://github.com/gulpjs/gulp) | 32050 | 4404 | 26 | A toolkit to automate & enhance your workflow |
+| 1 | [react](https://github.com/facebook/react) | 161902 | 32292 | 696 | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| 2 | [bootstrap](https://github.com/twbs/bootstrap) | 146333 | 71704 | 385 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
+| 3 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 92564 | 15530 | 182 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| 4 | [create-react-app](https://github.com/facebook/create-react-app) | 85132 | 20944 | 902 | Set up a modern web app by running one command. |
+| 5 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 64810 | 11244 | 5575 | The iconic SVG, font, and CSS toolkit |
+| 6 | [angular.js](https://github.com/angular/angular.js) | 59588 | 28562 | 468 | AngularJS - HTML enhanced for web apps! |
+| 7 | [reveal.js](https://github.com/hakimel/reveal.js) | 55163 | 15320 | 630 | The HTML Presentation Framework |
+| 8 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 52411 | 4129 | 89 | A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers |
+| 9 | [socket.io](https://github.com/socketio/socket.io) | 52208 | 9426 | 539 | Realtime application framework (Node.JS server) |
+| 10 | [json-server](https://github.com/typicode/json-server) | 51453 | 4842 | 572 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
+| 11 | [gatsby](https://github.com/gatsbyjs/gatsby) | 48599 | 9173 | 623 | Build blazing fast, modern apps and websites with React |
+| 12 | [resume.github.com](https://github.com/resume/resume.github.com) | 47527 | 1220 | 44 | Resumes generated using the GitHub informations |
+| 13 | [moment](https://github.com/moment/moment) | 45323 | 6830 | 106 | Parse, validate, manipulate, and display dates in javascript. |
+| 14 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 44317 | 5369 | 45 | :bathtub: Clean Code concepts adapted for JavaScript |
+| 15 | [meteor](https://github.com/meteor/meteor) | 42224 | 5157 | 130 | Meteor, the JavaScript App Platform |
+| 16 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 41891 | 13233 | 91 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06 |
+| 17 | [serverless](https://github.com/serverless/serverless) | 38504 | 4543 | 859 | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  |
+| 18 | [anime](https://github.com/juliangarnier/anime) | 37815 | 3013 | 138 | JavaScript animation engine |
+| 19 | [nw.js](https://github.com/nwjs/nw.js) | 37755 | 3913 | 774 | Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies. |
+| 20 | [parcel](https://github.com/parcel-bundler/parcel) | 37433 | 1873 | 591 | 📦🚀 Blazing fast, zero configuration web application bundler |
+| 21 | [impress.js](https://github.com/impress/impress.js) | 36089 | 6855 | 57 | It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. |
+| 22 | [Ghost](https://github.com/TryGhost/Ghost) | 35949 | 7817 | 94 | 👻 The #1 headless Node.js CMS for professional publishing |
+| 23 | [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 35702 | 4268 | 3 | 📜 33 concepts every JavaScript developer should know. |
+| 24 | [pdf.js](https://github.com/mozilla/pdf.js) | 33515 | 7852 | 650 | PDF Reader in JavaScript |
+| 25 | [nuxt.js](https://github.com/nuxt/nuxt.js) | 32981 | 2745 | 324 | The Intuitive Vue Framework |
+| 26 | [hexo](https://github.com/hexojs/hexo) | 31993 | 4067 | 97 | A fast, simple & powerful blog framework, powered by Node.js. |
+| 27 | [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | 31543 | 7242 | 189 | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple |
+| 28 | [hackathon-starter](https://github.com/sahat/hackathon-starter) | 31308 | 7000 | 20 | A boilerplate for Node.js web applications |
+| 29 | [faker.js](https://github.com/Marak/faker.js) | 29294 | 2533 | 286 | generate massive amounts of realistic fake data in Node.js and the browser |
+| 30 | [phaser](https://github.com/photonstorm/phaser) | 28780 | 6375 | 82 | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. |
 
 ## Top Python Projects
 
@@ -80,36 +80,36 @@ A list of most popular github projects in Python (by stars)
 
 |    | Project Name | Stars | Forks | Open Issues | Description |
 | -- | ------------ | ----- | ----- | ----------- | ----------- |
-| 1 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 117165 | 21212 | 170 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
-| 2 | [public-apis](https://github.com/public-apis/public-apis) | 106809 | 13014 | 226 | A collective list of free APIs for use in software and web development. |
-| 3 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 97768 | 39226 | 519 | Python - 100天从新手到大师 |
-| 4 | [Python](https://github.com/TheAlgorithms/Python) | 96711 | 27930 | 39 | All Algorithms implemented in Python |
-| 5 | [awesome-python](https://github.com/vinta/awesome-python) | 92045 | 18038 | 116 | A curated list of awesome Python frameworks, libraries, software and resources |
-| 6 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 86882 | 3376 | 3855 | Command-line program to download videos from YouTube.com and other video sites |
-| 7 | [models](https://github.com/tensorflow/models) | 68151 | 43247 | 1055 | Models and examples built with TensorFlow |
-| 8 | [thefuck](https://github.com/nvbn/thefuck) | 58228 | 2806 | 251 | Magnificent app which corrects your previous console command. |
-| 9 | [django](https://github.com/django/django) | 54714 | 23480 | 178 | The Web framework for perfectionists with deadlines. |
-| 10 | [flask](https://github.com/pallets/flask) | 53379 | 14033 | 24 | The Python micro framework for building web applications. |
-| 11 | [keras](https://github.com/keras-team/keras) | 50433 | 18688 | 3147 | Deep Learning for humans |
-| 12 | [httpie](https://github.com/httpie/httpie) | 49366 | 3208 | 144 | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie |
-| 13 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 47751 | 11977 | 5 | A curated list of awesome Machine Learning frameworks, libraries and software. |
-| 14 | [ansible](https://github.com/ansible/ansible) | 46326 | 20051 | 2012 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
-| 15 | [requests](https://github.com/psf/requests) | 44267 | 8065 | 303 | A simple, yet elegant HTTP library. |
-| 16 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 43598 | 20792 | 2325 | scikit-learn: machine learning in Python |
-| 17 | [scrapy](https://github.com/scrapy/scrapy) | 39355 | 8966 | 750 | Scrapy, a fast high-level web crawling & scraping framework for Python. |
-| 18 | [core](https://github.com/home-assistant/core) | 39079 | 12797 | 1733 | WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first |
-| 19 | [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | 38922 | 1747 | 73 | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. |
-| 20 | [transformers](https://github.com/huggingface/transformers) | 38847 | 9542 | 561 | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. |
-| 21 | [you-get](https://github.com/soimort/you-get) | 38411 | 7938 | 353 | :arrow_double_down: Dumb downloader that scrapes the web |
-| 22 | [face_recognition](https://github.com/ageitgey/face_recognition) | 37964 | 10712 | 566 | The world's simplest facial recognition api for Python and the command line |
-| 23 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 35900 | 5352 | 9 | :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 |
-| 24 | [cpython](https://github.com/python/cpython) | 35393 | 17348 | 1393 | The Python programming language |
-| 25 | [faceswap](https://github.com/deepfakes/faceswap) | 33781 | 10475 | 12 | Deepfakes Software For All |
-| 26 | [shadowsocks](https://github.com/shadowsocks/shadowsocks) | 32900 | 19673 | 448 | JavaScript animation engine |
-| 27 | [incubator-superset](https://github.com/apache/incubator-superset) | 31718 | 6544 | 497 | Apache Superset is a Data Visualization and Data Exploration Platform |
-| 28 | [XX-Net](https://github.com/XX-net/XX-Net) | 30511 | 7843 | 7665 | A proxy tool to bypass GFW. |
-| 29 | [interview_internal_reference](https://github.com/0voice/interview_internal_reference) | 29868 | 8188 | 22 | 2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 |
-| 30 | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 29567 | 3938 | 182 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
+| 1 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 118280 | 21393 | 170 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
+| 2 | [public-apis](https://github.com/public-apis/public-apis) | 107496 | 13117 | 230 | A collective list of free APIs for use in software and web development. |
+| 3 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 98126 | 39379 | 521 | Python - 100天从新手到大师 |
+| 4 | [Python](https://github.com/TheAlgorithms/Python) | 97145 | 28026 | 43 | All Algorithms implemented in Python |
+| 5 | [awesome-python](https://github.com/vinta/awesome-python) | 92327 | 18082 | 124 | A curated list of awesome Python frameworks, libraries, software and resources |
+| 6 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 87569 | 3524 | 3860 | Command-line program to download videos from YouTube.com and other video sites |
+| 7 | [models](https://github.com/tensorflow/models) | 68256 | 43303 | 1060 | Models and examples built with TensorFlow |
+| 8 | [thefuck](https://github.com/nvbn/thefuck) | 58330 | 2808 | 253 | Magnificent app which corrects your previous console command. |
+| 9 | [django](https://github.com/django/django) | 54855 | 23542 | 189 | The Web framework for perfectionists with deadlines. |
+| 10 | [flask](https://github.com/pallets/flask) | 53457 | 14064 | 22 | The Python micro framework for building web applications. |
+| 11 | [keras](https://github.com/keras-team/keras) | 50486 | 18689 | 3159 | Deep Learning for humans |
+| 12 | [httpie](https://github.com/httpie/httpie) | 49418 | 3205 | 147 | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie |
+| 13 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 47833 | 11987 | 2 | A curated list of awesome Machine Learning frameworks, libraries and software. |
+| 14 | [ansible](https://github.com/ansible/ansible) | 46421 | 20072 | 1962 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
+| 15 | [requests](https://github.com/psf/requests) | 44313 | 8076 | 302 | A simple, yet elegant HTTP library. |
+| 16 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 43677 | 20827 | 2326 | scikit-learn: machine learning in Python |
+| 17 | [scrapy](https://github.com/scrapy/scrapy) | 39423 | 8971 | 755 | Scrapy, a fast high-level web crawling & scraping framework for Python. |
+| 18 | [core](https://github.com/home-assistant/core) | 39234 | 12885 | 1754 | :house_with_garden: Open source home automation that puts local control and privacy first |
+| 19 | [transformers](https://github.com/huggingface/transformers) | 39168 | 9600 | 533 | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. |
+| 20 | [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | 38971 | 1751 | 73 | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. |
+| 21 | [you-get](https://github.com/soimort/you-get) | 38515 | 7958 | 352 | :arrow_double_down: Dumb downloader that scrapes the web |
+| 22 | [face_recognition](https://github.com/ageitgey/face_recognition) | 38070 | 10734 | 569 | The world's simplest facial recognition api for Python and the command line |
+| 23 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 36377 | 5394 | 20 | :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 |
+| 24 | [cpython](https://github.com/python/cpython) | 35536 | 17418 | 1411 | The Python programming language |
+| 25 | [faceswap](https://github.com/deepfakes/faceswap) | 33853 | 10498 | 9 | Deepfakes Software For All |
+| 26 | [shadowsocks](https://github.com/shadowsocks/shadowsocks) | 32909 | 19678 | 448 | A fast, simple & powerful blog framework, powered by Node.js. |
+| 27 | [superset](https://github.com/apache/superset) | 32063 | 6562 | 507 | Apache Superset is a Data Visualization and Data Exploration Platform |
+| 28 | [XX-Net](https://github.com/XX-net/XX-Net) | 30526 | 7839 | 7671 | A proxy tool to bypass GFW. |
+| 29 | [interview_internal_reference](https://github.com/0voice/interview_internal_reference) | 29931 | 8205 | 22 | 2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 |
+| 30 | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 29621 | 3949 | 185 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
 
 ## Top Php Projects
 
@@ -117,33 +117,33 @@ A list of most popular github projects in Php (by stars)
 
 |    | Project Name | Stars | Forks | Open Issues | Description |
 | -- | ------------ | ----- | ----- | ----------- | ----------- |
-| 1 | [laravel](https://github.com/laravel/laravel) | 63277 | 20117 | 31 | A PHP framework for web artisans |
-| 2 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 30915 | 8182 | 54 | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. |
-| 3 | [SecLists](https://github.com/danielmiessler/SecLists) | 29140 | 14643 | 26 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
-| 4 | [Faker](https://github.com/fzaninotto/Faker) | 25440 | 2990 | 246 | Faker is a PHP library that generates fake data for you |
-| 5 | [composer](https://github.com/composer/composer) | 24543 | 5994 | 174 | Dependency Manager for PHP |
-| 6 | [symfony](https://github.com/symfony/symfony) | 24449 | 7949 | 849 | The Symfony PHP framework |
-| 7 | [framework](https://github.com/laravel/framework) | 22894 | 7824 | 9 | Models and examples built with TensorFlow |
-| 8 | [guzzle](https://github.com/guzzle/guzzle) | 20341 | 2166 | 49 | Guzzle, an extensible PHP HTTP client |
-| 9 | [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | 19266 | 4172 | 1 | sample code for several design patterns in PHP 7.4 |
-| 10 | [monolog](https://github.com/Seldaek/monolog) | 18242 | 1712 | 11 | Sends your logs to files, sockets, inboxes, databases and various web services |
-| 11 | [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | 18102 | 7859 | 121 | Open Source PHP Framework (originally from EllisLab) |
-| 12 | [phpunit](https://github.com/sebastianbergmann/phpunit) | 16901 | 1957 | 104 | The PHP Unit Testing framework. |
-| 13 | [PHPMailer](https://github.com/PHPMailer/PHPMailer) | 16008 | 8536 | 27 | The classic email sending library for PHP |
-| 14 | [Carbon](https://github.com/briannesbitt/Carbon) | 14925 | 1153 | 6 | A simple PHP API extension for DateTime. |
-| 15 | [WordPress](https://github.com/WordPress/WordPress) | 14645 | 9210 | 2 | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. |
-| 16 | [matomo](https://github.com/matomo-org/matomo) | 14118 | 2081 | 1758 | Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  |
-| 17 | [PHP-Parser](https://github.com/nikic/PHP-Parser) | 14020 | 787 | 63 | A PHP parser written in PHP |
-| 18 | [howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 13849 | 1458 | 3 | 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate |
-| 19 | [yii2](https://github.com/yiisoft/yii2) | 13607 | 6950 | 504 | Yii 2: The Fast, Secure and Professional PHP Framework |
-| 20 | [parsedown](https://github.com/erusev/parsedown) | 13391 | 984 | 113 | Better Markdown Parser in PHP |
-| 21 | [server](https://github.com/nextcloud/server) | 12683 | 2344 | 2735 | ☁️ Nextcloud server, a safe home for all your data |
-| 22 | [grav](https://github.com/getgrav/grav) | 12460 | 1285 | 338 | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS |
-| 23 | [monica](https://github.com/monicahq/monica) | 12272 | 1349 | 420 | Personal CRM. Remember everything about your friends, family and business relationships. |
-| 24 | [whoops](https://github.com/filp/whoops) | 12190 | 572 | 2 | PHP errors for cool kids  |
-| 25 | [koel](https://github.com/koel/koel) | 12159 | 1529 | 56 | 🐦 A personal music streaming server that works. |
-| 26 | [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) | 12001 | 1166 | 32 | Laravel Debugbar (Integrates PHP Debug Bar) |
-| 27 | [phabricator](https://github.com/phacility/phabricator) | 11898 | 1482 | 1 | Open software engineering platform and fun adventure game |
-| 28 | [Cachet](https://github.com/CachetHQ/Cachet) | 11751 | 1359 | 316 | 📛 An open source status page system for everyone. |
-| 29 | [flysystem](https://github.com/thephpleague/flysystem) | 11635 | 606 | 3 | Abstraction for local and remote filesystems |
-| 30 | [image](https://github.com/Intervention/image) | 11522 | 1276 | 341 | PHP Image Manipulation |
+| 1 | [laravel](https://github.com/laravel/laravel) | 63372 | 20152 | 30 | A PHP framework for web artisans |
+| 2 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 30930 | 8188 | 55 | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. |
+| 3 | [SecLists](https://github.com/danielmiessler/SecLists) | 29259 | 14707 | 31 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
+| 4 | [Faker](https://github.com/fzaninotto/Faker) | 25462 | 3000 | 246 | Faker is a PHP library that generates fake data for you |
+| 5 | [composer](https://github.com/composer/composer) | 24580 | 6002 | 177 | Dependency Manager for PHP |
+| 6 | [symfony](https://github.com/symfony/symfony) | 24479 | 7952 | 829 | The Symfony PHP framework |
+| 7 | [framework](https://github.com/laravel/framework) | 22925 | 7836 | 14 | Models and examples built with TensorFlow |
+| 8 | [guzzle](https://github.com/guzzle/guzzle) | 20366 | 2168 | 51 | Guzzle, an extensible PHP HTTP client |
+| 9 | [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | 19278 | 4174 | 1 | sample code for several design patterns in PHP 7.4 |
+| 10 | [monolog](https://github.com/Seldaek/monolog) | 18267 | 1712 | 11 | Sends your logs to files, sockets, inboxes, databases and various web services |
+| 11 | [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | 18109 | 7859 | 104 | Open Source PHP Framework (originally from EllisLab) |
+| 12 | [phpunit](https://github.com/sebastianbergmann/phpunit) | 16927 | 1958 | 107 | The PHP Unit Testing framework. |
+| 13 | [PHPMailer](https://github.com/PHPMailer/PHPMailer) | 16034 | 8548 | 26 | The classic email sending library for PHP |
+| 14 | [Carbon](https://github.com/briannesbitt/Carbon) | 14942 | 1151 | 5 | A simple PHP API extension for DateTime. |
+| 15 | [WordPress](https://github.com/WordPress/WordPress) | 14678 | 9221 | 2 | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. |
+| 16 | [matomo](https://github.com/matomo-org/matomo) | 14405 | 2083 | 1761 | Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  |
+| 17 | [PHP-Parser](https://github.com/nikic/PHP-Parser) | 14052 | 789 | 64 | A PHP parser written in PHP |
+| 18 | [howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 13946 | 1469 | 3 | 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate |
+| 19 | [yii2](https://github.com/yiisoft/yii2) | 13614 | 6945 | 514 | Yii 2: The Fast, Secure and Professional PHP Framework |
+| 20 | [parsedown](https://github.com/erusev/parsedown) | 13412 | 986 | 113 | Better Markdown Parser in PHP |
+| 21 | [server](https://github.com/nextcloud/server) | 12757 | 2347 | 2744 | ☁️ Nextcloud server, a safe home for all your data |
+| 22 | [grav](https://github.com/getgrav/grav) | 12476 | 1286 | 356 | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS |
+| 23 | [monica](https://github.com/monicahq/monica) | 12305 | 1357 | 426 | Personal CRM. Remember everything about your friends, family and business relationships. |
+| 24 | [whoops](https://github.com/filp/whoops) | 12203 | 573 | 2 | PHP errors for cool kids  |
+| 25 | [koel](https://github.com/koel/koel) | 12177 | 1533 | 56 | 🐦 A personal music streaming server that works. |
+| 26 | [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) | 12033 | 1171 | 33 | Laravel Debugbar (Integrates PHP Debug Bar) |
+| 27 | [phabricator](https://github.com/phacility/phabricator) | 11919 | 1482 | 1 | Open software engineering platform and fun adventure game |
+| 28 | [Cachet](https://github.com/CachetHQ/Cachet) | 11767 | 1359 | 318 | 📛 An open source status page system for everyone. |
+| 29 | [flysystem](https://github.com/thephpleague/flysystem) | 11651 | 608 | 6 | Abstraction for local and remote filesystems |
+| 30 | [image](https://github.com/Intervention/image) | 11545 | 1280 | 343 | PHP Image Manipulation |
