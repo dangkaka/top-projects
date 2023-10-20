@@ -1,4 +1,4 @@
-*Updated automatically at: 2023-10-20T08:50:22+07:00* 
+*Updated automatically at: 2023-10-20T08:51:31+07:00* 
 
 ## Top Go Projects
 
@@ -17,7 +17,7 @@ A list of most popular github projects in Go (by stars)
 | 9 | [syncthing](https://github.com/syncthing/syncthing) | 54838 | 3909 | 327 | Open Source Continuous File Synchronization |
 | 10 | [prometheus](https://github.com/prometheus/prometheus) | 50298 | 8559 | 909 | The Prometheus monitoring system and time series database. |
 | 11 | [caddy](https://github.com/caddyserver/caddy) | 50185 | 3836 | 127 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
-| 12 | [clash](https://github.com/Dreamacro/clash) | 47779 | 6203 | 60 | A rule-based tunnel in Go. |
+| 12 | [clash](https://github.com/Dreamacro/clash) | 47779 | 6204 | 60 | A rule-based tunnel in Go. |
 | 13 | [traefik](https://github.com/traefik/traefik) | 45062 | 4737 | 648 | The Cloud Native Application Proxy |
 | 14 | [etcd](https://github.com/etcd-io/etcd) | 44711 | 9521 | 241 | Distributed reliable key-value store for the most critical data of a distributed system |
 | 15 | [act](https://github.com/nektos/act) | 44130 | 1104 | 184 | Run your GitHub Actions locally 🚀 |
@@ -43,36 +43,36 @@ A list of most popular github projects in Javascript (by stars)
 
 |    | Project Name | Stars | Forks | Open Issues | Description |
 | -- | ------------ | ----- | ----- | ----------- | ----------- |
-| 1 | [axios](https://github.com/axios/axios) | 102240 | 10738 | 528 | Promise based HTTP client for the browser and node.js |
-| 2 | [webpack](https://github.com/webpack/webpack) | 63601 | 8896 | 339 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. |
-| 3 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 51741 | 15700 | 111 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06 |
-| 4 | [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 46853 | 6758 | 71 | Based on a true story |
-| 5 | [serverless](https://github.com/serverless/serverless) | 45276 | 5729 | 1097 | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  |
-| 6 | [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 44891 | 7193 | 61 | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code |
-| 7 | [meteor](https://github.com/meteor/meteor) | 43805 | 5368 | 264 | Meteor, the JavaScript App Platform |
-| 8 | [parcel](https://github.com/parcel-bundler/parcel) | 42742 | 2310 | 742 | The zero configuration build tool for the web. 📦🚀 |
-| 9 | [edex-ui](https://github.com/GitSquared/edex-ui) | 38701 | 2406 | 6 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
-| 10 | [koa](https://github.com/koajs/koa) | 34404 | 3300 | 62 | Expressive middleware for node.js using ES2017 async functions |
-| 11 | [carbon](https://github.com/carbon-app/carbon) | 33306 | 1915 | 77 | :black_heart: Create and share beautiful images of your source code |
-| 12 | [husky](https://github.com/typicode/husky) | 30387 | 1046 | 32 | Git hooks made easy 🐶 woof! |
-| 13 | [project-guidelines](https://github.com/elsewhencode/project-guidelines) | 28922 | 3311 | 12 | A set of best practices for JavaScript projects |
-| 14 | [sequelize](https://github.com/sequelize/sequelize) | 28507 | 4248 | 873 | Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. |
-| 15 | [layui](https://github.com/layui/layui) | 28126 | 7273 | 2 | 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。 |
-| 16 | [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 27701 | 5473 | 9 | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 |
-| 17 | [jsPDF](https://github.com/parallax/jsPDF) | 27447 | 4657 | 177 | Client-side JavaScript PDF generation for everyone. |
-| 18 | [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | 27208 | 2411 | 210 | 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. |
-| 19 | [fabric.js](https://github.com/fabricjs/fabric.js) | 25984 | 3375 | 397 | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser |
-| 20 | [swagger-ui](https://github.com/swagger-api/swagger-ui) | 24626 | 8800 | 1025 | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. |
-| 21 | [rollup](https://github.com/rollup/rollup) | 24016 | 1411 | 494 | Next-generation ES module bundler |
-| 22 | [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | 23035 | 6456 | 215 | 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
-| 23 | [htmx](https://github.com/bigskysoftware/htmx) | 22358 | 797 | 297 | </> htmx - high power tools for HTML |
-| 24 | [normalizr](https://github.com/paularmstrong/normalizr) | 20988 | 905 | 22 | Normalizes nested JSON according to a schema |
-| 25 | [FileSaver.js](https://github.com/eligrey/FileSaver.js) | 20795 | 4431 | 199 | An HTML5 saveAs() FileSaver implementation |
-| 26 | [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) | 20039 | 2089 | 49 | 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack. |
-| 27 | [snowpack](https://github.com/FredKSchott/snowpack) | 19588 | 957 | 396 | ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️ |
-| 28 | [jsdom](https://github.com/jsdom/jsdom) | 19297 | 1664 | 473 | A JavaScript implementation of various web standards, for use with Node.js |
-| 29 | [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | 18457 | 2476 | 146 | A draggable and resizable grid layout with responsive breakpoints, for React. |
-| 30 | [cleave.js](https://github.com/nosir/cleave.js) | 17899 | 1665 | 217 | Format input text content when you are typing... |
+| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 151057 | 34588 | 225 | An experimental open-source attempt to make GPT-4 fully autonomous. |
+| 2 | [javascript](https://github.com/airbnb/javascript) | 138709 | 26325 | 164 | JavaScript Style Guide |
+| 3 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 64335 | 5980 | 137 |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
+| 4 | [express](https://github.com/expressjs/express) | 62119 | 11642 | 196 | Fast, unopinionated, minimalist web framework for node. |
+| 5 | [mermaid](https://github.com/mermaid-js/mermaid) | 62042 | 5272 | 871 | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
+| 6 | [atom](https://github.com/atom/atom) | 59660 | 18360 | 994 | :atom: The hackable text editor |
+| 7 | [jquery](https://github.com/jquery/jquery) | 57885 | 20896 | 94 | jQuery JavaScript Library |
+| 8 | [lodash](https://github.com/lodash/lodash) | 57714 | 7104 | 14 | A modern JavaScript utility library delivering modularity, performance, & extras. |
+| 9 | [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | 55335 | 12445 | 10 | A professional front-end template for building fast, robust, and adaptable web apps or sites. |
+| 10 | [prettier](https://github.com/prettier/prettier) | 46825 | 4065 | 1261 | Prettier is an opinionated code formatter. |
+| 11 | [cypress](https://github.com/cypress-io/cypress) | 45114 | 3048 | 1376 | Fast, easy and reliable testing for anything that runs in a browser. |
+| 12 | [dayjs](https://github.com/iamkun/dayjs) | 44419 | 2236 | 820 | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API |
+| 13 | [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) | 42327 | 3068 | 0 | Bypass Paywalls web browser extension for Chrome and Firefox. |
+| 14 | [yarn](https://github.com/yarnpkg/yarn) | 41280 | 2916 | 1978 | The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry |
+| 15 | [Motrix](https://github.com/agalwood/Motrix) | 40577 | 4324 | 663 | A full-featured download manager. |
+| 16 | [pm2](https://github.com/Unitech/pm2) | 39813 | 2580 | 838 | Node.js Production Process Manager with a built-in Load Balancer. |
+| 17 | [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 38863 | 9249 | 335 | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
+| 18 | [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | 38787 | 3250 | 12 | ⭐️  Companies that don't have a broken hiring process |
+| 19 | [uBlock](https://github.com/gorhill/uBlock) | 38327 | 2877 | 15 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| 20 | [video.js](https://github.com/videojs/video.js) | 36306 | 7446 | 471 | Video.js - open source HTML5 video player |
+| 21 | [monaco-editor](https://github.com/microsoft/monaco-editor) | 35952 | 3399 | 378 | A browser based code editor |
+| 22 | [awesome-react-native](https://github.com/jondot/awesome-react-native) | 33424 | 4020 | 78 | Awesome React Native components, news, tools, and learning material! |
+| 23 | [gulp](https://github.com/gulpjs/gulp) | 32834 | 4373 | 27 | A toolkit to automate & enhance your workflow |
+| 24 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 29302 | 14730 | 139 | 网易云音乐 Node.js API service |
+| 25 | [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) | 29263 | 6203 | 121 | :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices. |
+| 26 | [JavaScript](https://github.com/TheAlgorithms/JavaScript) | 29246 | 5166 | 80 | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. |
+| 27 | [fastify](https://github.com/fastify/fastify) | 28769 | 2154 | 77 | Fast and low overhead web framework, for Node.js |
+| 28 | [standard](https://github.com/standard/standard) | 28569 | 2485 | 115 | 🌟 JavaScript Style Guide, with linter & automatic code fixer |
+| 29 | [webtorrent](https://github.com/webtorrent/webtorrent) | 28385 | 2737 | 83 | ⚡️ Streaming torrent client for the web |
+| 30 | [todomvc](https://github.com/tastejs/todomvc) | 28322 | 13919 | 203 | Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more |
 
 ## Top Python Projects
 
@@ -91,7 +91,7 @@ A list of most popular github projects in Python (by stars)
 | 9 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 76709 | 9360 | 131 | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
 | 10 | [django](https://github.com/django/django) | 73576 | 30172 | 152 | The Web framework for perfectionists with deadlines. |
 | 11 | [pytorch](https://github.com/pytorch/pytorch) | 71778 | 19756 | 12924 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| 12 | [langchain](https://github.com/langchain-ai/langchain) | 65235 | 9296 | 2015 | ⚡ Building applications with LLMs through composability ⚡ |
+| 12 | [langchain](https://github.com/langchain-ai/langchain) | 65236 | 9296 | 2015 | ⚡ Building applications with LLMs through composability ⚡ |
 | 13 | [flask](https://github.com/pallets/flask) | 64659 | 15970 | 6 | The Python micro framework for building web applications. |
 | 14 | [fastapi](https://github.com/tiangolo/fastapi) | 63653 | 5389 | 554 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 | 15 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 61090 | 14298 | 5 | A curated list of awesome Machine Learning frameworks, libraries and software. |
@@ -105,7 +105,7 @@ A list of most popular github projects in Python (by stars)
 | 23 | [requests](https://github.com/psf/requests) | 50423 | 9211 | 260 | A simple, yet elegant, HTTP library. |
 | 24 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 49880 | 9753 | 53 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
 | 25 | [face_recognition](https://github.com/ageitgey/face_recognition) | 49597 | 13160 | 741 | The world's simplest facial recognition api for Python and the command line |
-| 26 | [localstack](https://github.com/localstack/localstack) | 49595 | 3725 | 388 | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
+| 26 | [localstack](https://github.com/localstack/localstack) | 49595 | 3726 | 388 | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
 | 27 | [scrapy](https://github.com/scrapy/scrapy) | 48930 | 10237 | 714 | Scrapy, a fast high-level web crawling & scraping framework for Python. |
 | 28 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 48239 | 8256 | 173 | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | 29 | [faceswap](https://github.com/deepfakes/faceswap) | 47288 | 12700 | 25 | Deepfakes Software For All |
