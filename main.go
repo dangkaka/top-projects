@@ -28,8 +28,8 @@ type Repo struct {
 	URL         string    `json:"html_url"`
 }
 
-var result Repositories
 var languages = []string{"go", "javascript", "python", "php"}
+var pages = []int{1, 2, 3}
 
 func main() {
 	now := time.Now()
@@ -38,7 +38,7 @@ func main() {
 
 	readme, err := os.OpenFile("README.md", os.O_CREATE|os.O_RDWR|os.O_TRUNC, 0666)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatalln(err)
 	}
 	readme.WriteString(fmt.Sprintf("*Updated automatically at: %v* \n", now.Format(time.RFC3339)))
 
@@ -49,19 +49,36 @@ func main() {
 }
 
 func getGithubResult(lang string) Repositories {
-	apiURL := "https://api.github.com/search/repositories?q=language:" + lang + "&sort=stars&order=desc"
-	resp, err := http.Get(apiURL)
 
-	if err != nil {
-		log.Println(err)
+	var result Repositories
+	result.Total = new(int)
+	result.IncompleteResults = new(bool)
+
+	for _, page := range pages {
+		var pageResult Repositories
+
+		apiURL := fmt.Sprintf("https://api.github.com/search/repositories?q=language:%s&sort=stars&order=desc&page=%d", lang, page)
+		fmt.Println(apiURL)
+
+		resp, err := http.Get(apiURL)
+
+		if err != nil {
+			log.Fatalln(err)
+		}
+		if resp.StatusCode != 200 {
+			log.Fatalln(resp.Status)
+		}
+		decoder := json.NewDecoder(resp.Body)
+		if err = decoder.Decode(&pageResult); err != nil {
+			log.Fatalln(err)
+		}
+
+		*result.Total += *pageResult.Total
+		result.Items = append(result.Items, pageResult.Items...)
+
+		time.Sleep(1 * time.Second)
 	}
-	if resp.StatusCode != 200 {
-		log.Println(resp.Status)
-	}
-	decoder := json.NewDecoder(resp.Body)
-	if err = decoder.Decode(&result); err != nil {
-		log.Println(err)
-	}
+
 	return result
 }
 
